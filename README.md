@@ -42,3 +42,6 @@ and discards the least important card in the discard pile
 * Once the user forms a quad or a triplet ,it moves to right .The user can form 2 triplets and 1 quad and can end the game by discarding the last card
 
 #### Variation: Pool Rummy: 
+![Game](https://imgur.com/CHEDutq.png)
+
+![You Won](https://i.imgur.com/v3gmE5k.png)
